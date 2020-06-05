@@ -1,0 +1,12 @@
+.idea/
+**/node_modules
+**/npm-debug.log
+**/.idea
+**/dist
+
+**/package-lock.json
+**/.env
+**/setup_backend.txt
+**/yarn.lock
+**/.DS_Store
+
